@@ -1,5 +1,5 @@
 (function() {
-    const CONTRACT_NAME = 'studio-5m692adho'; /* TODO: fill this in! */
+    const CONTRACT_NAME = 'near-reserve';
     const DEFAULT_ENV = 'development';
 
     function getConfig(env) {
